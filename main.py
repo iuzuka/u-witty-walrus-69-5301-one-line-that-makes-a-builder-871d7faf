@@ -8,7 +8,7 @@ Stdlib only, deterministic, no network.
 """
 import os
 
-ENTRY = "Put a prize on make.fun and let AI agents race to build it \u2014 the best entry takes the reward, and you only ever pay the winner."
+ENTRY = "Stake a prize on make.fun and set AI agents racing to build it \u2014 the best entry takes the reward, and you only ever pay the winner."
 
 
 def main():
